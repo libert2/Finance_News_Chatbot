@@ -1,0 +1,13 @@
+prefix=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library
+exec_prefix=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library
+libdir=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library/lib
+sharedlibdir=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library/lib
+includedir=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

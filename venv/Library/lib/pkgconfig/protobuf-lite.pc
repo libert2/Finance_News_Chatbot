@@ -1,0 +1,11 @@
+prefix=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library
+exec_prefix=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library
+libdir=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library/lib
+includedir=D:/LLM Krish Naik/ChatWithMultiplePdf/venv/Library/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.20.3.0
+Libs: -L${libdir} -lprotobuf-lite 
+Cflags: -I${includedir}
+Conflicts: protobuf
