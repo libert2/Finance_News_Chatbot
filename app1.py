@@ -16,7 +16,7 @@ os.getenv("GOOGLE_API_KEY")
 genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
 
 # Define your SerpApi parameters (replace with your API key)
-SERPAPI_KEY = "83925ebb74615c19ef57236be649861d6e434b6ef75f5979562f3dfee9ac159f"
+SERPAPI_KEY = "nsgreangngpeg"
 ENGINE = "google_custom_search"  # Adjust if needed
 PARAMS = {
     "api_key": SERPAPI_KEY,
