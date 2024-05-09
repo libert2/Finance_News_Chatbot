@@ -72,9 +72,9 @@ def main():
 
     # Replace with paths to your local PDFs (ensure they exist)
     default_pdf_paths = [
-        "D:\\LLM Krish Naik\\ChatWithMultiplePdf\\output_file.pdf",
-        "D:\\LLM Krish Naik\\ChatWithMultiplePdf\\output_file_2018.pdf",
-        "D:\\LLM Krish Naik\\ChatWithMultiplePdf\\output_file_2019.pdf"
+        "output_file.pdf",
+        "output_file_2018.pdf",
+        "output_file_2019.pdf"
         
         # Add more PDF paths as needed
     ]
